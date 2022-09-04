@@ -1,0 +1,4 @@
+After running 1) Script_TestPerformance_RandomTrajectory.py:
+	Results_C1_Nominal_LOEAtN_EpCount_1000.py
+	Results_C2_Nominal_LOEAtN_EpCount_1000.py
+	Results_UniformC1C2_Nominal_LOEAtN_EpCount_1000.py

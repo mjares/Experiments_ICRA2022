@@ -1,0 +1,9 @@
+After running 4) Script_TestPerformance_RandomTrajectory_WindLowLevel.py:
+	Results_C1_Nominal_WndPsN_EpCount_1000.py
+	Results_C2_Nominal_WndPsN_EpCount_1000.py
+	Results_UniformC1C2_Nominal_WndPsN_EpCount_1000.py
+After running 5) Script_TestPerformance_RandomTrajectory_WindLowLevel_C1C3.py:	
+	Results_UniformC3_Nominal_Full_EpCount_1000.py
+	Results_UniformC1C3_Nominal_Full_EpCount_1000.py
+After running 6) Script_TestPerformance_RandomTrajectory_WindLowLevel_C2C3.py:	
+	Results_UniformC2C3_Nominal_Full_EpCount_1000.py
