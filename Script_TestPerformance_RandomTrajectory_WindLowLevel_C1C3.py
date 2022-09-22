@@ -277,8 +277,8 @@ for controller in controller_list:
         modeResults.calculate_performance()
         Results.append_mode(modeResults)
 
-    datasetFile = open(saveFilename, 'wb')  # Creating file to write
-    pickle.dump(Results, datasetFile)
-    datasetFile.close()
-    print('\n')
+        datasetFile = open(saveFilename, 'wb')  # Creating file to write
+        pickle.dump(Results, datasetFile)
+        datasetFile.close()
+        print('\n')
 
